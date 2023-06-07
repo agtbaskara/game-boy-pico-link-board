@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.2*
-G04 #@! TF.CreationDate,2023-05-28T06:01:11+09:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*
+G04 #@! TF.CreationDate,2023-06-08T07:07:18+09:00*
 G04 #@! TF.ProjectId,game-boy-pico-link-board,67616d65-2d62-46f7-992d-7069636f2d6c,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.2) date 2023-05-28 06:01:11*
+G04 Created by KiCad (PCBNEW 7.0.5) date 2023-06-08 07:07:18*
 %MOMM*%
 %LPD*%
 G01*
