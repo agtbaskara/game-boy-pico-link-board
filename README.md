@@ -14,7 +14,7 @@ Based on stacksmashing Gameboy Link adapter: https://www.youtube.com/watch?v=KtH
 
 | Reference | Part Number | Description |
 |-|-|-|
-| U1 | [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) | Clones should be compatible |
+| U1 | [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) | |
 | U2 | [BOB-12009](https://www.sparkfun.com/products/12009) | Sparkfun Bi-Directional Logic Level Converter, clones are compatible |
 | SW1 | [Pin Header](https://www.amazon.com/dp/B07PKKY8BX) | 1x3 2.54mm Male Pin Header |
 | - | [Pin Jumper](https://www.amazon.com/dp/B077957RN7) | 2.54mm Pin Jumper, harvest from old motherboard or hardrive |
@@ -52,6 +52,9 @@ This board is compatible with the following firmware:
 - https://github.com/stacksmashing/gb-link-firmware
 - https://github.com/stacksmashing/gb-link-printer
 - https://github.com/Lorenzooone/PokemonGB_Online_Trades
+- https://github.com/dj505/GBPrinterEmu
+- https://github.com/Squaresweets/GBPrinter-discord-bot
+- https://github.com/KuestenKeks/pc-to-gb-printer
 
 With some modification, it should be compatible with other firmware as well, such as:
 - https://github.com/untoxa/pico-gb-printer
