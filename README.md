@@ -16,10 +16,16 @@ Based on stacksmashing Gameboy Link adapter: https://www.youtube.com/watch?v=KtH
 |-|-|-|
 | U1 | [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) | |
 | U2 | [BOB-12009](https://www.sparkfun.com/products/12009) | Sparkfun Bi-Directional Logic Level Converter, clones are compatible |
+| SW1 | [SS12D00-G3](https://www.amazon.com/Tnuocke-Vertical-Position-Switches-SS12D00-G3/dp/B099MRCDG8) | 3 Pin SPDT Switch with 1" (2.54mm) Pitch |
+
+If you want to use pin jumper instead of switch you can use:
+
+| Reference | Part Number | Description |
+|-|-|-|
 | SW1 | [Pin Header](https://www.amazon.com/dp/B07PKKY8BX) | 1x3 2.54mm Male Pin Header |
 | - | [Pin Jumper](https://www.amazon.com/dp/B077957RN7) | 2.54mm Pin Jumper, harvest from old motherboard or hardrive |
 
-Attached links are for reference only, you can use any equivalent part.
+**Attached links are for reference only, you can use any equivalent parts.**
 
 # How to Order Board
 
