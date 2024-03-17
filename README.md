@@ -1,5 +1,4 @@
-# Game-Boy-Pico-Link-Board
-
+# USB TO GAMEBOY LINK CABLE ADAPTER
 ![Board 3D Render](docs/board-front-3d.png)
 
 An Open-Source USB to Gameboy Link Cable Adapter for Raspberry Pi Pico. Designed with components that are easy to source and solder.
@@ -26,6 +25,8 @@ If you want to use pin jumper instead of switch you can use:
 | - | [Pin Jumper](https://www.amazon.com/dp/B077957RN7) | 2.54mm Pin Jumper, harvest from old motherboard or hardrive |
 
 **Attached links are for reference only, you can use any equivalent parts.**
+
+**List of tested components** [Tested Components List](COMPONENTS.md)
 
 # How to Order Board
 
