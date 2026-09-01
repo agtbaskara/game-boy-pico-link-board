@@ -1,4 +1,7 @@
 # USB TO GAMEBOY LINK CABLE ADAPTER
+
+> **This design has been superseded by [GB-Link-USB-DIY](https://github.com/GB-Link/GB-Link-USB-DIY). Please use that project instead.**
+
 ![Board 3D Render](docs/board-front-3d.png)
 
 An Open-Source USB to Gameboy Link Cable Adapter for Raspberry Pi Pico. Designed with components that are easy to source and solder.
@@ -56,7 +59,8 @@ For Gameboy/Gameboy Color game, place the pin jumper on the DMG/GBC side. For Ga
 # Compatibility
 
 This board is compatible with the following firmware:
-- https://github.com/Lorenzooone/gb-link-firmware-reconfigurable (Recommended Firmware)
+- https://github.com/GB-Link/GBLink-Firmware (Recommended Firmware)
+- https://github.com/Lorenzooone/gb-link-firmware-reconfigurable
 - https://github.com/stacksmashing/gb-link-firmware
 - https://github.com/stacksmashing/gb-link-printer
 - https://github.com/Lorenzooone/PokemonGB_Online_Trades
